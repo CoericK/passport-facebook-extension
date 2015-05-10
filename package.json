@@ -1,0 +1,24 @@
+{
+  "name": "passport-facebook-extension",
+  "author": {
+    "name": "Erick Arroyo",
+    "email": "erick.1726@gmail.com",
+    "url": "http://twitter.com/coerick"
+  },
+  "version": "0.0.5",
+  "private": false,
+  "scripts": {
+    "start": "node test.js"
+  },
+  "main": "./index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CoericK/passport-facebook-extension.git"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "json-bignum": "0.0.3",
+    "q": "^1.4.0",
+    "request": "^2.55.0"
+  }
+}
